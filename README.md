@@ -1,7 +1,10 @@
+
+<img src=".docs/assets/PKGKitLogo.png" alt="MoviesFinder Icon" height="400" />
+
+# PKGKit by Pedro M. Moreno
 [![Version](https://img.shields.io/badge/PMM__PKGKit-v1.0.0-blue)]()
 [![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)]()
 
-# PKGKit by Pedro M. Moreno
 **PKGKit** is a lightweight toolkit of Bash scripts that automate the process of archiving, packaging, signing, and preparing a `.pkg` installer for a macOS application.  
 
 It is designed to be **self-contained and developer-friendly**: everything lives inside the `scripts/` folder, with no external environment variables required.  
